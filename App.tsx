@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import Navbar from './components/Navbar';
+import Navbar from './components/Navbar.tsx';
 import Hero from './components/Hero';
 import Features from './components/Features';
 import WorkGallery from './components/WorkGallery';
